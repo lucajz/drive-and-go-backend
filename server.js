@@ -22,6 +22,7 @@ app.use(
       "http://localhost:3000",
       "http://localhost:3001",
       "http://192.168.1.137:3000",
+      "https://drive-go-frontend.vercel.app/",
     ],
     credentials: true,
   })
